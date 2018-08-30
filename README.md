@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-08-30
+
+* [How To Name Variables And Methods In Ruby](https://jtway.co/how-to-name-variables-and-methods-in-ruby-b4a21fb66c4d)
+
 ## 2018-08-11
 
 * [iOS Developer Skills Matrix](https://github.com/BohdanOrlov/ios-skills-matrix)
