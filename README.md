@@ -5,6 +5,7 @@ Good links
 ## 2018-08-30
 
 * [How To Name Variables And Methods In Ruby](https://jtway.co/how-to-name-variables-and-methods-in-ruby-b4a21fb66c4d)
+* [Alex's Rails Cheat Sheet](https://gist.github.com/alexpchin/f5d2be2ef3735889d315)
 
 ## 2018-08-11
 
