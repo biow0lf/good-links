@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-09-06
+
+* [Setting up CircleCI 2.0 for Rails](https://robots.thoughtbot.com/circleci-2-rails)
+
 ## 2018-09-02
 
 * [Should I use CSRF protection on Rest API endpoints?](https://security.stackexchange.com/questions/166724/should-i-use-csrf-protection-on-rest-api-endpoints)
