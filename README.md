@@ -5,6 +5,7 @@ Good links
 ## 2018-09-06
 
 * [Setting up CircleCI 2.0 for Rails](https://robots.thoughtbot.com/circleci-2-rails)
+* [Configuring CircleCI](https://circleci.com/docs/2.0/configuration-reference/)
 
 ## 2018-09-02
 
