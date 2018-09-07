@@ -5,6 +5,7 @@ Good links
 ## 2018-09-07
 
 * [A Deep Dive into Ruby Scopes](https://blog.codeship.com/a-deep-dive-into-ruby-scopes/)
+* [The Exhaustive Guide to Rails Time Zones](http://danilenko.org/2012/7/6/rails_timezones/)
 
 ## 2018-09-06
 
