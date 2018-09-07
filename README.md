@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-09-07
+
+* [A Deep Dive into Ruby Scopes](https://blog.codeship.com/a-deep-dive-into-ruby-scopes/)
+
 ## 2018-09-06
 
 * [Setting up CircleCI 2.0 for Rails](https://robots.thoughtbot.com/circleci-2-rails)
