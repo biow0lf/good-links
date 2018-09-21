@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-09-21
+
+* [Understand ruby memory](https://github.com/benoittgt/understand_ruby_memory/wiki/Resources)
+
 ## 2018-09-07
 
 * [A Deep Dive into Ruby Scopes](https://blog.codeship.com/a-deep-dive-into-ruby-scopes/)
