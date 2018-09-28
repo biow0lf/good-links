@@ -2,6 +2,11 @@
 
 Good links
 
+## 2018-09-28
+
+* [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
+* [Useful shortcuts for bash/zsh](https://github.com/fliptheweb/bash-shortcuts-cheat-sheet)
+
 ## 2018-09-21
 
 * [Understand ruby memory](https://github.com/benoittgt/understand_ruby_memory/wiki/Resources)
