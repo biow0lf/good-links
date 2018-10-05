@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-10-06
+
+* [Introduction to Conditional HTTP Caching with Rails](https://robots.thoughtbot.com/introduction-to-conditional-http-caching-with-rails)
+
 ## 2018-09-28
 
 * [Moving efficiently in the CLI](https://clementc.github.io/blog/2018/01/25/moving_cli/)
