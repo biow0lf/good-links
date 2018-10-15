@@ -5,6 +5,7 @@ Good links
 ## 2018-10-15
 
 * [Referrer Policy](https://www.w3.org/TR/referrer-policy/)
+* [Meta referrer (old referrer policy draft)](https://wiki.whatwg.org/wiki/Meta_referrer)
 
 ## 2018-10-06
 
