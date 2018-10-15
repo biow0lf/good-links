@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-10-15
+
+* [Referrer Policy](https://www.w3.org/TR/referrer-policy/)
+
 ## 2018-10-06
 
 * [Introduction to Conditional HTTP Caching with Rails](https://robots.thoughtbot.com/introduction-to-conditional-http-caching-with-rails)
