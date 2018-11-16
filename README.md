@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-11-16
+
+* [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+
 ## 2018-10-15
 
 * [Referrer Policy](https://www.w3.org/TR/referrer-policy/)
