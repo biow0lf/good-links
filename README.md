@@ -4,6 +4,7 @@ Good links
 
 ## 2018-11-23
 
+* [Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 * [Visual Genome](https://visualgenome.org/)
 
 ## 2018-11-16
