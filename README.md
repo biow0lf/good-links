@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-11-23
+
+* [Visual Genome](https://visualgenome.org/)
+
 ## 2018-11-16
 
 * [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
