@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-11-27
+
+* [Token Based Authentication in Rails](https://www.pluralsight.com/blog/tutorials/token-based-authentication-rails)
+
 ## 2018-11-23
 
 * [Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
