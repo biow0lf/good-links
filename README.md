@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-11-29
+
+* [Add LocalStorage to your Vue app in 2 lines of code](https://travishorn.com/add-localstorage-to-your-vue-app-in-2-lines-of-code-56eb2c9f371b)
+
 ## 2018-11-27
 
 * [Token Based Authentication in Rails](https://www.pluralsight.com/blog/tutorials/token-based-authentication-rails)
