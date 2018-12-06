@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-12-06
+
+* [Developing a Ruby on Rails app with Docker Compose](https://medium.com/firehydrant-io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634)
+
 ## 2018-11-29
 
 * [Add LocalStorage to your Vue app in 2 lines of code](https://travishorn.com/add-localstorage-to-your-vue-app-in-2-lines-of-code-56eb2c9f371b)
