@@ -2,6 +2,10 @@
 
 Good links
 
+## 2018-12-20
+
+* [Ruby alias vs alias_method](http://rubydev.ru/2010/12/ruby_alias-alias_method/)
+
 ## 2018-12-06
 
 * [Developing a Ruby on Rails app with Docker Compose](https://medium.com/firehydrant-io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634)
