@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-01-10
+
+* [Ruby 2.3 dig Method - Thoughts and Examples](https://www.tiagoamaro.com.br/2016/08/27/ruby-2-3-dig/)
+
 ## 2018-12-20
 
 * [Ruby alias vs alias_method](http://rubydev.ru/2010/12/ruby_alias-alias_method/)
