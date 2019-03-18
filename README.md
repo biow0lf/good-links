@@ -5,6 +5,8 @@ Good links
 ## 2019-03-18
 
 * [Composable Query Builders in Rails with Arel](https://www.thegreatcodeadventure.com/composable-query-builders-with-arel-in-rails/)
+* [More than Enough Arel](https://samuelmullen.com/articles/more_than_enough_arel/)
+* [The Minimum Arel Every Rails Developer Should Know](https://jacopretorius.net/2016/09/the-mimimum-arel-every-rails-developer-should-know.html)
 
 ## 2019-01-10
 
