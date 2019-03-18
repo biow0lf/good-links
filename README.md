@@ -7,6 +7,7 @@ Good links
 * [Composable Query Builders in Rails with Arel](https://www.thegreatcodeadventure.com/composable-query-builders-with-arel-in-rails/)
 * [More than Enough Arel](https://samuelmullen.com/articles/more_than_enough_arel/)
 * [The Minimum Arel Every Rails Developer Should Know](https://jacopretorius.net/2016/09/the-mimimum-arel-every-rails-developer-should-know.html)
+* [The definitive guide to Arel, the SQL manager for Ruby](https://jpospisil.com/2014/06/16/the-definitive-guide-to-arel-the-sql-manager-for-ruby.html)
 
 ## 2019-01-10
 
