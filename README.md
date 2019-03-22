@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-03-22
+
+* [Keeping Your Logs From Becoming an Unreadable Mess](https://www.justinweiss.com/articles/keeping-your-logs-from-becoming-an-unreadable-mess/)
+
 ## 2019-03-18
 
 * [Crontab.guru](https://crontab.guru/)
