@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-03-28
+
+* [Foolproof I18n Setup in Rails](https://thoughtbot.com/blog/foolproof-i18n-setup-in-rails)
+
 ## 2019-03-22
 
 * [Keeping Your Logs From Becoming an Unreadable Mess](https://www.justinweiss.com/articles/keeping-your-logs-from-becoming-an-unreadable-mess/)
