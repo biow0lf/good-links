@@ -5,6 +5,7 @@ Good links
 ## 2019-04-24
 
 * [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
+* [AwesomePSQLList](https://github.com/anvk/AwesomePSQLList/blob/master/README.md)
 
 ## 2019-03-28
 
