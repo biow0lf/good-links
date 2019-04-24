@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-04-24
+
+* [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
+
 ## 2019-03-28
 
 * [Foolproof I18n Setup in Rails](https://thoughtbot.com/blog/foolproof-i18n-setup-in-rails)
