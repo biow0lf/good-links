@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-06-18
+
+* [Stop Worrying and Start Being Concerned: ActiveSupport Concerns](http://vaidehijoshi.github.io/blog/2015/10/13/stop-worrying-and-start-being-concerned-activesupport-concerns/)
+
 ## 2019-04-24
 
 * [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
