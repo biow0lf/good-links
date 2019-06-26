@@ -4,7 +4,7 @@ Good links
 
 ## 2019-06-27
 
-* (Best Practices for Link Previews in Messages)[https://developer.apple.com/library/archive/technotes/tn2444/_index.html]
+* [Best Practices for Link Previews in Messages](https://developer.apple.com/library/archive/technotes/tn2444/_index.html)
 
 ## 2019-06-18
 
