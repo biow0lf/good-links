@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-06-27
+
+* (Best Practices for Link Previews in Messages)[https://developer.apple.com/library/archive/technotes/tn2444/_index.html]
+
 ## 2019-06-18
 
 * [Stop Worrying and Start Being Concerned: ActiveSupport Concerns](http://vaidehijoshi.github.io/blog/2015/10/13/stop-worrying-and-start-being-concerned-activesupport-concerns/)
