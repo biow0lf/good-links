@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-08-14
+
+* [How can I change the author name / email of a commit?](https://www.git-tower.com/learn/git/faq/change-author-name-email)
+
 ## 2019-06-27
 
 * [Best Practices for Link Previews in Messages](https://developer.apple.com/library/archive/technotes/tn2444/_index.html)
