@@ -2,6 +2,10 @@
 
 Good links
 
+## 2019-08-29
+
+* [preload, eager_load, includes, references, and joins in Rails](http://blog.ifyouseewendy.com/blog/2015/11/11/preload-eager_load-includes-references-joins/)
+
 ## 2019-08-14
 
 * [How can I change the author name / email of a commit?](https://www.git-tower.com/learn/git/faq/change-author-name-email)
