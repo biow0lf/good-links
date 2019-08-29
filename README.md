@@ -5,6 +5,8 @@ Good links
 ## 2019-08-29
 
 * [preload, eager_load, includes, references, and joins in Rails](http://blog.ifyouseewendy.com/blog/2015/11/11/preload-eager_load-includes-references-joins/)
+* [Upgrading from Rails 3.2.12 to 4.0](https://davidjairala.github.io/rails/2013/06/25/rails4.html)
+* [Upgrade Rails from 4.0 to 4.1](https://www.ombulabs.com/blog/rails/upgrades/upgrade-rails-from-4-0-to-4-1.html)
 
 ## 2019-08-14
 
