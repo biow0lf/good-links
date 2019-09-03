@@ -2,6 +2,11 @@
 
 Good links
 
+## 2019-09-03
+
+* [How we halved our memory consumption in Rails with jemalloc](https://medium.com/rubyinside/how-we-halved-our-memory-consumption-in-rails-with-jemalloc-86afa4e54aa3)
+* [RailsConf 2017: Upgrading a big application to Rails 5 by Rafael França](https://www.youtube.com/watch?v=I-2Xy3RS1ns)
+
 ## 2019-08-29
 
 * [preload, eager_load, includes, references, and joins in Rails](http://blog.ifyouseewendy.com/blog/2015/11/11/preload-eager_load-includes-references-joins/)
